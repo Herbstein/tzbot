@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/tzbot.iml" filepath="$PROJECT_DIR$/tzbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tzbot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tzbot_main.iml" group="tzbot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tzbot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tzbot_test.iml" group="tzbot" />
     </modules>
   </component>
 </project>
